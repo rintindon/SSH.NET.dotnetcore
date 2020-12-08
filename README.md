@@ -1,4 +1,13 @@
-﻿SSH.NET
+﻿SSH.NETCORE CONVERSION
+
+* I removed many code that I don't need :)
+* Only the Test and SshNet Project are left back in solution
+
+=======================================================================================================================
+ORIGINAL README
+=======================================================================================================================
+
+SSH.NET
 =======
 SSH.NET is a Secure Shell (SSH-2) library for .NET, optimized for parallelism.
 
