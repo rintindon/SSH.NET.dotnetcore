@@ -3,6 +3,8 @@
 * I removed many code that I don't need :)
 * Only the Test and SshNet Project are left back in solution
 
+* CURRENTLY THE TESTS DO NOT PASSED
+
 =======================================================================================================================
 ORIGINAL README
 =======================================================================================================================
